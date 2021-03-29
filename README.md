@@ -1,8 +1,10 @@
 # Simples Online Audio Analysis
 
-Simple HTML5 realtime audio analysis for both time domain and frequency domain.
+Simple HTML5 realtime audio analysis for both time domain and frequency domain in a `<canvas>` element in the browser.
 
 You may access the app in my personal website: https://grossato.com/html5-simple-audio-analysis/
+
+![Demonstration Image of the Website](https://grossato.com/html5-simple-audio-analysis/demo.png)
 
 There are no analytics, no tracking, no ads or anything else, it is as simple as I could make it.
 
